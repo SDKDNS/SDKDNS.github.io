@@ -6,7 +6,7 @@
   border-radius: 10em;
   display: flex;
   list-style: none;
-  background: #f5f5f5;
+  background: #eeeeee;
   box-shadow: 20px 40px 50px #00000044;
   padding: 10px;
 }
@@ -38,7 +38,7 @@
 #nav-1 .nav .slide2 {
   opacity: 0;
   background: #fff;
-  border: 1px solid #8ab9ff;
+  border: 1px solid #ADC2A9;
   z-index: 1;
 }
 
@@ -66,5 +66,5 @@ body {
   background-color: #e0e0e0;
   font-family: Montserrat, sans-serif;
   line-height: 1.5;
-  background: linear-gradient(160deg, #4567b2 20%, #8ab9ff 20%, #8ab9ff 80%, #4567b2 80%);
+  background: linear-gradient(160deg, #99A799 20%, #D3E4CD 20%, #D3E4CD 80%, #99A799 80%);
 }
